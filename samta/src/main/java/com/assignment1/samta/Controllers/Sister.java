@@ -6,10 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Sister {
     
-    @RequestMapping("/who is the best sister in this world")
-    public String sister()
-    {
-        return "Gungun is the best sister in this world";
-    }
+   
 }
 
